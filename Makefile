@@ -213,5 +213,3 @@ lint-report-get-category: ## Get lint issues by category
 .PHONY: lint-report-clean
 lint-report-clean: ## Clean lint report
 	rm -f ./lint-report.json
-
-
